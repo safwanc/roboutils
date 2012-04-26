@@ -10,3 +10,6 @@ Various MATLAB functions, scripts and classes written for common robotics comput
 ## kinematics
 - `JacobianRevolute` - linear/angular velocity jacobian for revolute joint
 - `JacobianPrismatic` - linear/angular velocity jacobian for prismatic joint
+
+## linear algebra
+- `SkewSymmetric` - returns 3x3 skew symmetric matrix for a 3x1 vector
