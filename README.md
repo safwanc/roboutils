@@ -13,3 +13,4 @@ Various MATLAB functions, scripts and classes written for common robotics comput
 
 ## linear algebra
 - `SkewSymmetric` - returns 3x3 skew symmetric matrix for a 3x1 vector
+- `SingularityRobustInverse` - returns the SR-inverse of a non-square matrix (alternative to pseudoinverse)
