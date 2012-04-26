@@ -22,6 +22,12 @@ $RECYCLE.BIN/
 # OSX / *nix default autosave extension
 *.m~
 
+# Simulink
+slprj
+
+# Personal Files
+SC*.m
+
 *.tmproj
 *.tmproject
 tmtags
