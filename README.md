@@ -8,6 +8,7 @@ University of Waterloo. Ontario, Canada.
 Various MATLAB functions, scripts and classes written for common robotics computations: 
 
 ## kinematics
+- `DecomposeTransformation` - extracts 3x3 orientation and 3x1 translation from 4x4 homogeneous transformation matrix
 
 ### center of mass
 - `CenterOfMass`
